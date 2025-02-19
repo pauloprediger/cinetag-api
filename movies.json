@@ -1,0 +1,40 @@
+{
+	"videos": [
+		{
+			"id": 1,
+			"name": "A Viagem de Chihiro",
+			"imagem": "/MoviePosters/chihiro.png",
+			"link": "https://www.youtube.com/embed/ByXuk9QqQkk?si=_7uDyFl4Nyn7IuOx"
+		},
+		{
+			"id": 2,
+			"name": "O Castelo Animado",
+			"imagem": "/MoviePosters/casteloAnimado.webp",
+			"link": "https://www.youtube.com/embed/iwROgK94zcM?si=f6DsM-sOj5vpgFqu"
+		},
+		{
+			"id": 3,
+			"name": "Meu Amigo Totoro",
+			"imagem": "/MoviePosters/meuAmigoTotoro.webp",
+			"link": "https://www.youtube.com/embed/92a7Hj0ijLs?si=8CZ6DgLQXOwWwpFr"
+		},
+		{
+			"id": 4,
+			"name": "Princesa Mononoke",
+			"imagem": "/MoviePosters/princesaMononoke.png",
+			"link": "https://www.youtube.com/embed/4OiMOHRDs14?si=DwaEZkW2-fLKt1i-"
+		},
+		{
+			"id": 5,
+			"name": "O Serviço de Entregas da Kiki",
+			"imagem": "/MoviePosters/servicoDeEntregas.jpg",
+			"link": "https://www.youtube.com/embed/4bG17OYs-GA?si=QoUlvQGizmmjw5gR"
+		},
+		{
+			"id": 6,
+			"name": "Ponyo - Uma Amizade que Veio do Mar",
+			"imagem": "/MoviePosters/ponyo.webp",
+			"link": "https://www.youtube.com/embed/CsR3KVgBzSM?si=9jUHBwOPz6DYXjWH"
+		}
+	]
+}
